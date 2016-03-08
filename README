@@ -1,0 +1,4 @@
+This script is used for us to diff the node iso. Due to we need to mount the iso, so we need to run this script at root permission.
+The basic usage is :
+
+root$# python diff_node_iso.py $iso_name_1 $iso_name_2

@@ -1,6 +1,3 @@
-__author__ = 'huiwa'
-
-
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 
